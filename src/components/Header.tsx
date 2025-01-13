@@ -12,7 +12,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex justify-between items-center">
           <Link to="/" className="text-2xl font-bold text-gray-800">
-            Portfolio
+          &lt;𝓐𝓜/&gt;
           </Link>
 
           {/* Desktop Navigation */}

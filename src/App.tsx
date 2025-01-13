@@ -22,7 +22,7 @@ function Home() {
 function App() {
   return (
     <Router>
-      <div className="bg-white">
+      <div className="bg-sky-500">
         <Header />
         <main>
           <Routes>
